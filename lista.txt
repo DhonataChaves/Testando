@@ -6,3 +6,4 @@ Aqui está a lista enumerada:
 4. Ler um livro
 5. Organizar documentos
 6. Preparar o jantar
+7. adicionando
